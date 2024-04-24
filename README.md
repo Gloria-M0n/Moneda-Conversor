@@ -10,6 +10,7 @@ La estructura del proyecto se divide solo en dos clases.
 Clase Principal.
 
 Encargada de la lógica del conversor y del menú que se mostrará en consola.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                 ******************************************
                 Bienvenido/a al conversor de monedas 
@@ -25,6 +26,7 @@ Encargada de la lógica del conversor y del menú que se mostrará en consola.
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------             
 
 Encargada de hacer la peticón al servidor y obtener el JSON donde se encuentran los valores de las monedas tomando como encuenta el valor de 1 USD (dólar)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 {
  "result":"success",
@@ -199,6 +201,7 @@ Encargada de hacer la peticón al servidor y obtener el JSON donde se encuentran
   "ZMW":25.9907,
   "ZWL":13.2536
  }
+ 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Al final de elegir la opción deseada solo de 7 opciones la ultima es salir del programa.
